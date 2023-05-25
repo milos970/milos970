@@ -1,5 +1,5 @@
-### Hello there 👋
-<hr>
+<h1 style="font-size: 40px;">Hello there 👋</h1>
+
 
 <!--
 **milos970/milos970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
