@@ -1,9 +1,10 @@
 <h1 style="font-size: 40px;">Hello friend 👋</h1>
 
-<p>
+<p><i>
 Beneath every choice, there's either a one or a zero.
 You either do something or you don't. You walk out that door, you've decided to do nothing, to say no, which means you do not come back. You leave, you are no longer a part of this. You become a zero.
 If you stay, if you want to change something, you become a yes.
+  </i>
 </p>
 
 
