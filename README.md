@@ -26,7 +26,6 @@ If you stay, if you want to change something, you become a yes.
 <span><img src="https://img.shields.io/badge/Windows Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></span>
 
 
 <h2 align="left">Tools:</h2>
