@@ -14,6 +14,10 @@ If you stay, if you want to change something, you become a yes.
 <p align="left">
 </p>
 
+- 🔭 I’m currently working on **To do list**
+
+- 🌱 I’m currently learning **Spring Boot, React**
+
 
 <h2 align="left">Languages:</h2>
 
