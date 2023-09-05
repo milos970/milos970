@@ -14,9 +14,9 @@ If you stay, if you want to change something, you become a yes.
 <p align="left">
 </p>
 
-- 🔭 I’m currently working on **To do list**
+- 🔭 I’m currently working on **To-Do List web app, Wedding website**
 
-- 🌱 I’m currently learning **Spring Boot, React**
+- 🌱 I’m currently learning **Spring Boot, React, Docker**
 
 
 <h2 align="left">Languages:</h2>
