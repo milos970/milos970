@@ -18,7 +18,7 @@ If you stay, if you want to change something, you become a yes.
 
 - 🌱 I’m currently learning **Spring Boot, React, Docker**
 
-![Leetcode Stats](https://leetcode.card.workers.dev/milos970?theme=forest&font=source_code_pro&extension=null)
+![Leetcode Stats](https://leetcode.card.workers.dev/milos970?theme=nord&font=source_code_pro&extension=null)
 
 
 <h2 align="left">Languages:</h2>
