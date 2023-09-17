@@ -23,13 +23,6 @@
 
 <h2 align="left">Tools 🔨:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=git,postman&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,maven,idea,vscode,visualstudio&perline=8)](https://skillicons.dev)
 
-<h2 align="left">IDEs:</h2>
-<span><img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"></span>
-<span><img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></span>
-
-<h2 align="left">Version control:</h2>
-<span><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></span>
-<span><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></span>
  
