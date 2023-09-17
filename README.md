@@ -1,4 +1,4 @@
-<h1 style="font-size: 40px;"><span><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"> </span>Hello friend 👋</h1>
+<h1 style="font-size: 40px;">Hello friend <span><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></span></h1>
 <p><i>
    Beneath every choice, there's either a one or a zero.
    You either do something or you don't. You walk out that door, you've decided to do nothing, to say no, which means you do not come back. You leave, you are no longer a part of this. You become a zero.
