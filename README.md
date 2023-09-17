@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Spring Boot, React, Docker**
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/milos970?theme=nord&font=source_code_pro&extension=null)
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <h2 align="left">Languages & Frameworks:</h2>
 
