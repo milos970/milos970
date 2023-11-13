@@ -6,7 +6,7 @@
    </i>
 </p>
 
-- 🔭 I’m currently working on **To-Do List web app**
+- 🔭 I’m currently working on **Software tool for teaching of Numerical methods Course**
 - 🌱 I’m currently learning **Spring Boot, React, Docker**
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/milos970?theme=nord&font=source_code_pro&extension=null)
