@@ -6,8 +6,17 @@
    </i>
 </p>
 
-- 🔭 I’m currently working on **Refactoring of Software tool for teaching the subject of Numerical methods, Specific task manager**
+
+- 🔭 I’m currently working on:
+  - **Specific task manager (Spring Boot, MySQL, Angular, Docker)**
+    - Task manager tailor-made to my needs, as most free software alternatives are unsuitable for my purposes. This software will be ideal for anyone whose personal growth ecosystem is similar to mine.
+  - **Refactoring of Software tool for teaching the subject of Numerical methods (Spring Boot, H2, Angular, Docker, LDAP)**
+    - The plan is to migrate the frontend part to Angular, implement LDAP authentication, and subsequently containerize using Docker. 
 - 🌱 I’m currently learning **Angular, Docker.**
+
+
+ 
+
 
 
 
