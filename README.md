@@ -15,7 +15,6 @@
 - 🌱 I’m currently learning **Angular, Docker.**
 
 
- Here’s your **daily quote**:
 
 <!--QUOTE_START-->
 A person hears only what they understand. — Johann Wolfgang von Goethe
