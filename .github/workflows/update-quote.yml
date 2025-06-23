@@ -2,7 +2,7 @@ name: Daily Quote Updater
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # každý deň o 6:00 UTC
+    - cron: '5 13 * * *'  # každý deň o 6:00 UTC
   workflow_dispatch:
 
 jobs:
