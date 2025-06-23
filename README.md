@@ -6,7 +6,7 @@
 ### <div align="center">I'm Milos, a backend developer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/milos970/specific-task-manager.git)  
   
 
 - 🌱 I’m currently learning Angular and Docker  
