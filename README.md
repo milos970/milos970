@@ -18,7 +18,7 @@
  Here’s your **daily quote**:
 
 <!--QUOTE_START-->
-_loading..._
+A person hears only what they understand. — Johann Wolfgang von Goethe
 <!--QUOTE_END-->
 
 
