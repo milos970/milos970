@@ -64,6 +64,13 @@
 <br/>  
 
 
+## Github Stats  
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=milos970&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milos970&layout=compact" alt="Top Languages" />
+</div>
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/milos970" target="_blank">
@@ -73,14 +80,6 @@
   
 
 <br/>  
-
-
-## Github Stats  
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=milos970&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milos970&layout=compact" alt="Top Languages" />
-</div>
 
 
 
