@@ -9,8 +9,6 @@
   
 
 - 🔭 I’m currently working on [Specific Task Manager](https://github.com/milos970/specific-task-manager.git)  and [Educational software](https://github.com/milos970/Software-tool-for-teaching-the-subject-of-Numerical-methods-upgrade.git)
-  
-
 - 🌱 I’m currently learning Angular and Docker  
   
   
@@ -66,9 +64,10 @@
 
 ## Github Stats  
 <div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milos970&langs_count=8" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=milos970&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milos970&layout=compact" alt="Top Languages" />
+  
 </div>
 
 ## Connect with me  
