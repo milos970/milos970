@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://preview.redd.it/need-wallpapers-on-your-pc-of-lis2-heres-some-scenic-parts-v0-obsc4j6tps9d1.png?width=1080&crop=smart&auto=webp&s=5bf61e0b49527f6d01a5bfe609a2100c754f4370" align="center" style="width: 100%" />
 </div>  
+
+
   
 
 ### <div align="center">I'm Milos, a backend developer 👨‍💻🚀</div>  
@@ -11,11 +13,6 @@
 
 - 🌱 I’m currently learning Angular and Docker  
   
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
@@ -79,34 +76,15 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=milos970&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=milos970&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milos970&layout=compact" alt="Top Languages" />
+</div>
 
-<br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+
+
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
