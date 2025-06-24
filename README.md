@@ -3,9 +3,7 @@
 </div>  
 
 
-  
 
-### <div align="center">I'm Milos, a backend developer 👨‍💻🚀</div>  
   
 
 - 🔭 I’m currently working on [Specific Task Manager](https://github.com/milos970/specific-task-manager.git)  and [Educational software](https://github.com/milos970/Software-tool-for-teaching-the-subject-of-Numerical-methods-upgrade.git)
@@ -64,8 +62,8 @@
 
 ## Github Stats  
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milos970&langs_count=8" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=milos970&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milos970&langs_count=8&bg_color=000000&text_color=ffffff&text_title=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=milos970&show_icons=true&count_private=true&hide_border=true&bg_color=000000&text_title=ffffff&text_color=ffffff" alt="GitHub Stats" />
   
   
 </div>
