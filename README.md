@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://preview.redd.it/need-wallpapers-on-your-pc-of-lis2-heres-some-scenic-parts-v0-obsc4j6tps9d1.png?width=1080&crop=smart&auto=webp&s=5bf61e0b49527f6d01a5bfe609a2100c754f4370" align="center" style="width: 100%" />
+<img src="./header.png" alt="Diagram" width="100%"/>
 </div>  
 
 
