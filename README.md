@@ -6,7 +6,7 @@
 <br/>  
   
 
-- 🔭 I’m currently working on [Educational software V2](https://github.com/milos970/Software-tool-for-teaching-the-subject-of-Numerical-methods-upgrade.git)
+- 🔭 I’m currently working on Educational software V2 and Portfolio 2.0
 - 🌱 I’m currently learning Angular and Docker  
   
   
