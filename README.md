@@ -6,7 +6,7 @@
 <br/>  
   
 
-- 🔭 I’m currently working on Educational software V2 and Portfolio 2.0
+- 🔭 I’m currently working on Educational software V2, Portfolio 2.0 and Multigame-stats.
 - 🌱 I’m currently learning Angular and Docker  
   
   
