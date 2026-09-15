@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Milos
 
-### Full-Stack Developer · Software Engineer
+### Software Engineer
 
 I build web applications, educational software and tools focused on **clean architecture, usability and real-world problem solving**.
 
@@ -16,7 +16,7 @@ I build web applications, educational software and tools focused on **clean arch
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
 ### Backend
