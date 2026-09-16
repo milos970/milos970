@@ -4,9 +4,9 @@
 
 I build web applications, educational software and tools focused on **clean architecture, usability and real-world problem solving**.
 
-* 🔭 Currently working on **Educational Software V2**, **Portfolio 2.0** & **Multigame Stats**
+* 🔭 Currently working on **Educational Software V2**, **Portfolio 2.0**
 * 🌱 Currently learning **Angular** & **Docker**
-* 💻 Interested in **Full-Stack Development, Software Architecture & DevOps**
+* 💻 Interested in **Back-End Development, Software Architecture**
 * ⚡ Always building, learning and improving
 
 ---
@@ -22,7 +22,7 @@ I build web applications, educational software and tools focused on **clean arch
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,cpp,postgresql,bash" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,postgresql,bash" />
 </p>
 
 ### DevOps & Tools
