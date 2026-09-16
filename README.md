@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Milos
 
-### Software Engineer
+### Junior Java Backend Developer
 
-I build web applications, educational software and tools focused on **clean architecture, usability and real-world problem solving**.
+I build web applications, desktop applications focused on **clean architecture, usability and real-world problem solving**.
 
-* 🔭 Currently working on **Educational Software V2**, **Portfolio 2.0**
+* 🔭 Currently working on **Educational Software V2**, **DES**
 * 🌱 Currently learning **Angular** & **Docker**
 * 💻 Interested in **Back-End Development, Software Architecture**
 * ⚡ Always building, learning and improving
@@ -31,29 +31,11 @@ I build web applications, educational software and tools focused on **clean arch
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash" />
 </p>
 
----
-
-## 🚀 What I'm Working On
-
-| Project                        | Focus                         |
-| ------------------------------ | ----------------------------- |
-| 🎓 **Educational Software V2** | Modern educational platform   |
-| 💼 **Portfolio 2.0**           | Personal portfolio redesign   |
-| 🎮 **Multigame Stats**         | Gaming statistics & analytics |
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=milos970&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milos970&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-
-</div>
-
-<br>
 
 <div align="center">
 
